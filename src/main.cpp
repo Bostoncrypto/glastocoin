@@ -2779,7 +2779,7 @@ bool InitBlockIndex() {
         //   vMerkleTree: 97ddfbbae6
 
         // Genesis block                     CHANGE below to something today
-        const char* pszTimestamp = "The Day after the lineup"";
+        const char* pszTimestamp = "The Day after the lineup";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);

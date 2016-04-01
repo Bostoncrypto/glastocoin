@@ -1,0 +1,9 @@
+Building Glastocoin
+
+See doc/readme-qt.rst for instructions on building Glastocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Glastocoin.
+
+See doc/build-*.txt for instructions on building glastocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Glastocoin.

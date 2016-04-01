@@ -1,12 +1,6 @@
 Glastocoin integration/staging tree
 ================================
 
-This copy of glastocoin has had its merkle root, genesis block, and nonces removed
-
-this copy needs the merkle hashing 
-the geneisis block and nonce hashing
-
-insert code into main.cpp to create merkle dont forget to remove!!!!!!!!
 http://www.glastocoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers

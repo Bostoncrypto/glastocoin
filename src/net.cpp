@@ -1178,7 +1178,7 @@ static const char *strMainNetDNSSeed[][2] = {
 };
 
 static const char *strTestNetDNSSeed[][2] = {
-    {"glastocoin.duckdns.org, "67.209.114.212"},
+    {"glastocoin.duckdns.org", "67.209.114.212"},
     {NULL, NULL}
 };
 
